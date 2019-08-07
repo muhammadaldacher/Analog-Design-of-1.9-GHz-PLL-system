@@ -18,6 +18,16 @@ This project shows the design of a frequency synthesizer PLL system that produce
 ![param](https://user-images.githubusercontent.com/27668656/62660653-86ea3280-b923-11e9-9664-5af6d84cb73a.png) <br/> <br/>
 
 # [2] PLL Circuit Design
+### A) PFD:
+![pfd](https://user-images.githubusercontent.com/27668656/62662760-f19e6c80-b929-11e9-8c0b-2270e22c45dc.png)
+### B) Charge Pump:
+![cp](https://user-images.githubusercontent.com/27668656/62663121-3c6cb400-b92b-11e9-98e2-5690f9dfe831.png) <br/>
+![cp](https://user-images.githubusercontent.com/27668656/62663200-7473f700-b92b-11e9-957d-f16e4593238d.png) <br/>
+### C) Loop Filter:
+![LPF](https://user-images.githubusercontent.com/27668656/62663915-480daa00-b92e-11e9-84de-11f998679c88.png) <br/>
+### D) VCO:
+
+
 
 *****************
 ### References:
