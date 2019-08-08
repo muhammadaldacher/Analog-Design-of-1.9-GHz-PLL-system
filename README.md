@@ -31,6 +31,7 @@ Refer to: https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend/t
 ![VCO_LC](https://user-images.githubusercontent.com/27668656/62666459-611b5880-b938-11e9-8581-81349e223dcd.png) <br/>
 ![lc](https://user-images.githubusercontent.com/27668656/62667160-4eeee980-b93b-11e9-91f0-90585d671192.png) <br/>
 ####   2- Current-Starved Ring VCO:
+Refer to: https://drive.google.com/drive/folders/1fyUhUR0x1b1HQYjlndnEte-GhuKZ9sJ6 <br/>
 ![VCO_ring](https://user-images.githubusercontent.com/27668656/62667249-b147ea00-b93b-11e9-9828-5e5c48a859f0.png) <br/>
 ![rg](https://user-images.githubusercontent.com/27668656/62667287-dccad480-b93b-11e9-8be8-604a056441ac.png) <br/>
 ### E) Divider:
@@ -40,7 +41,18 @@ Refer to: https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend/t
 ####   2- CMOS Flipflop: (for lower-speed-input stages)
 ![Divider](https://user-images.githubusercontent.com/27668656/62671766-f9233d00-b94c-11e9-9f22-335821989829.png) <br/><br/>
 ### => System Simulations:
-
+* Testbench: <br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62714322-31f5fd00-b9b3-11e9-9195-c4de03f77e76.png) <br/><br/>
+1- With LC VCO:<br/><br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62722887-3bd42c00-b9c4-11e9-8104-983facd119e0.png)<br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62722993-7d64d700-b9c4-11e9-8943-de98e37c59e4.png)<br/><br/>
+2- With Ring VCO:<br/><br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62723086-b0a76600-b9c4-11e9-8d68-4302d8f43c76.png)<br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62723139-d2085200-b9c4-11e9-91e7-582b2454d14b.png)<br/><br/>
+* Comparison: <br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62723307-3f1be780-b9c5-11e9-8c92-e8a3078d82b7.png) <br/>
+* Corner Simulations (using LC VCO): <br/>
+![testbench](https://user-images.githubusercontent.com/27668656/62723399-79858480-b9c5-11e9-9c52-58a03a76ef8c.png)<br/><br/><br/>
 *****************
 ### References:
 -> VerilogA References:<br/>
@@ -51,3 +63,5 @@ My project on google drive:<br/>
 https://drive.google.com/drive/folders/1TUYCLbdZC5S4dQVAxZmoUjMQPiLFntPe <br/>
 EE230 Lecture Notes:<br/>
 https://drive.google.com/open?id=1WcP2svOrAle0cEzlL1oexYeuDEQjH5j9 <br/>
+SGFET Nanowire PLL design:<br/>
+https://drive.google.com/open?id=11aUuht1qpGR8_nj85TnPhnZkIp3dgVg7 <br/>
