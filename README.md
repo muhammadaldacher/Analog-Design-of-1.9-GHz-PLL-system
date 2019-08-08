@@ -26,11 +26,27 @@ This project shows the design of a frequency synthesizer PLL system that produce
 ### C) Loop Filter:
 ![LPF](https://user-images.githubusercontent.com/27668656/62663915-480daa00-b92e-11e9-84de-11f998679c88.png) <br/>
 ### D) VCO:
-
-
+####   1- LC VCO:
+Refer to: https://github.com/muhammadaldacher/RF-design-of-1.9-GHz-Rx-frontend/tree/master/%5B2%5D%20VCO%20design <br/>
+![VCO_LC](https://user-images.githubusercontent.com/27668656/62666459-611b5880-b938-11e9-8581-81349e223dcd.png) <br/>
+![lc](https://user-images.githubusercontent.com/27668656/62667160-4eeee980-b93b-11e9-91f0-90585d671192.png) <br/>
+####   2- Current-Starved Ring VCO:
+![VCO_ring](https://user-images.githubusercontent.com/27668656/62667249-b147ea00-b93b-11e9-9828-5e5c48a859f0.png) <br/>
+![rg](https://user-images.githubusercontent.com/27668656/62667287-dccad480-b93b-11e9-8be8-604a056441ac.png) <br/>
+### E) Divider:
+![Divider](https://user-images.githubusercontent.com/27668656/62671403-9c735280-b94b-11e9-9dae-725af9e789dd.png) <br/>
+####   1- TSPC Flipflop: (for high-speed-input stages)
+![Divider](https://user-images.githubusercontent.com/27668656/62671736-ddb83200-b94c-11e9-936c-c4115550a676.png) <br/>
+####   2- CMOS Flipflop: (for lower-speed-input stages)
+![Divider](https://user-images.githubusercontent.com/27668656/62671766-f9233d00-b94c-11e9-9f22-335821989829.png) <br/><br/>
+### => System Simulations:
 
 *****************
 ### References:
+-> VerilogA References:<br/>
+https://github.com/muhammadaldacher/Analog-Design-of-1.9-GHz-PLL-system/tree/master/%5B1%5D%20PLL%20System%20Level%20(VerilogAMS%20-%20Matlab)/VerilogA%20References%20(for%20PLLs) <br/>
+-> PLL Design References: <br/>
+https://github.com/muhammadaldacher/Analog-Design-of-1.9-GHz-PLL-system/tree/master/%5B2%5D%20PLL%20Circuit%20Design/References <br/>
 My project on google drive:<br/>
 https://drive.google.com/drive/folders/1TUYCLbdZC5S4dQVAxZmoUjMQPiLFntPe <br/>
 EE230 Lecture Notes:<br/>
