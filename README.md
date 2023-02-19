@@ -7,7 +7,7 @@ This project shows the design of a frequency synthesizer PLL system that produce
 * Typical CP PLL system: <br/>
 ![block diagram](https://user-images.githubusercontent.com/27668656/62659007-1b05cb00-b91f-11e9-99c5-b8b5a7ae3843.png) <br/> <br/>
 * System Parameters: <br/>
-![param](https://user-images.githubusercontent.com/27668656/62659490-5fde3180-b920-11e9-979b-c036057acc3d.png) <br/> <br/>
+![spec_params](https://user-images.githubusercontent.com/27668656/219975664-bec12eb1-a4a6-473f-aee6-5fc5a2cde03b.png) <br/> <br/>
 * System Stability: <br/>
 ![block diagram](https://user-images.githubusercontent.com/27668656/62659548-856b3b00-b920-11e9-99d6-d49adb1be322.png) <br/> <br/>
 ![block diagram](https://user-images.githubusercontent.com/27668656/62659921-910b3180-b921-11e9-9eb4-502424ebd28e.png) <br/> <br/>
