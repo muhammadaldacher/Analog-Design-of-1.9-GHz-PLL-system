@@ -66,4 +66,4 @@ https://drive.google.com/open?id=1WcP2svOrAle0cEzlL1oexYeuDEQjH5j9 <br/>
 SGFET Nanowire PLL design:<br/>
 https://drive.google.com/open?id=11aUuht1qpGR8_nj85TnPhnZkIp3dgVg7 <br/><br/>
 [Thesis] "DESIGN OF A PHASE LOCKED LOOP BASED CLOCKING CIRCUIT FOR HIGH SPEED SERIAL LINK APPLICATIONS" by RISHI RATAN: <br/>
-http://emlab.uiuc.edu/jose/Theses/Ratan.pdf <br/>
+https://www.ideals.illinois.edu/items/49560 <br/>
